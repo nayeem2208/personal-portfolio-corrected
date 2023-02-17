@@ -1,0 +1,41 @@
+header.header1 {
+    margin-left: 0;
+    margin-right: 0;
+    width: 100%;
+}
+
+#mypic-wrapper img {
+    width: 70%;
+}
+
+#header-logo-wrapper,
+#header-logo-wrapper>h2 {
+    width: max-content;
+}
+
+#header-toggle-button-wrapper,
+#header-toggle-button-wrapper>div.navbar {
+    width: max-content;
+}
+
+#header-row-first-container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap-reverse;
+}
+
+#nav-ul {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+#org-nav {
+    padding: 0;
+}
+
+#nav-ul>li,
+#nav-ul>li>a {
+    width:max-content;
+}
