@@ -1,0 +1,221 @@
+.header1 {
+    background: rgb(69,95,140);
+    background: linear-gradient(90deg, rgba(69,95,140) 0%, rgba(255,1,115) 100%); 
+    position: sticky;
+    width: 99vw;
+    top: 0;
+}
+body{
+    background: rgb(69,95,140);
+    background: linear-gradient(90deg, rgba(69,95,140,0.3) 0%, rgba(255,1,115,0.2) 100%); 
+}
+
+#navbarSupportedContent a {
+    color: white;
+}
+
+#nlog:hover {
+    rotate: 90deg;
+
+}
+.ul1 {
+    list-style: none;
+}
+
+.infomain{
+   
+    top: 20;
+}
+#education1{
+    padding-top: 20vh;
+    
+}
+.blank1{
+    width: 100%;
+    height: 20vh;
+    
+}
+.blank2{
+    width: 100%;
+    height: 30vh;
+    
+}
+.blank3{
+    width: 100%;
+    height: 30vh;
+    
+}
+.blank4{
+    width: 100%;
+    height: 20vh;
+    
+}
+
+#pink1{
+    width: 100%;
+    height: 150vh;
+    z-index:-1;
+    top: 100vh;
+    margin-top: -10vh;
+    margin-left: -4vh;
+    opacity: 0.5;
+    position: absolute;
+    
+    
+}
+.blank0{
+    width: 100%;
+    height: 15vh;
+    
+}
+
+
+@media (max-width: 1000px) {
+    #graduate-hat-img {
+        display: none;
+    }
+    #contid{
+        margin-bottom: 5vh;
+    }
+    #mernname{
+        
+        margin-top: 5vh;
+    }
+    #exp12{
+        margin-top: 5vh;
+    }
+    
+    
+}
+@media (max-width: 767px){
+    #mypic-wrapper{
+        width: 100%;
+    }
+   
+    
+}
+@media (max-width: 515px){
+    #links1 img{
+        width: 30px;
+        align-items: center;
+        margin-left: 1vw;
+        margin-bottom: 8vh;
+        margin-top: -2vh;
+    }
+    #map{
+        margin-bottom: 5vh;
+        height: 30vh;
+    }
+    #pink1{
+        
+        display: none;
+    }
+    #gform{
+        
+        margin-right: 7vh;
+    }
+    #edu12 h5{
+        font-size: 3vw;
+    }
+    #edu12 h4{
+        font-size: 4vw;
+    }
+    #info12 h5{
+        font-size: 3vw;
+        
+    }
+    .blank1{
+        height: 10vh;
+    }
+    .blank2{
+        height: 15vh;
+    }
+    .blank3{
+        height: 15vh;
+    }
+    .blank4{
+        height: 15vh;
+    }
+    #skill12 h5{
+        font-size: 3.4vw;
+        font-weight: 500;
+    }
+    #infoid h1{
+        font-size: 4vw; 
+    }
+    #education1 h1{
+        font-size: 4vw; 
+    }
+    #expid h1{
+        font-size: 4vw; 
+    }
+    #skillid h1{
+        font-size: 4vw; 
+    }
+    #contid h1{
+        font-size: 4vw; 
+    }
+    #connectme1 h4{
+        font-size: 3vw; 
+    }
+   
+}
+/* @media (min-width: 516px){
+    #mernd{
+    font-weight: 800;
+    color: white;
+    background: rgb(69,95,140);
+    background: linear-gradient(90deg, rgba(69,95,140,0.8) 0%, rgba(255,1,115,0.2) 100%); 
+    }
+} */
+.skillcol1{
+    background: rgb(69,95,140);
+    background: linear-gradient(90deg, rgba(69,95,140,0.4) 0%, rgba(255,1,115,0.5) 100%); 
+    /* color: white; */
+    
+}
+.img1{
+    margin: 3vh;
+    width: 10vh;
+    margin-top: 8vh;
+}
+iframe{
+    margin-top: 2vh;
+    width: 50vh;
+    height: 62vh;
+}
+.input1{
+    background: rgba(0, 0, 0, 0.1);
+    border: none;
+    width: 50vh;
+    margin-top: 3vh;
+}
+.input2{
+    background: rgba(0, 0, 0, 0.1);
+    border: none;
+    width: 50vh;
+    margin-top: 3vh;
+    height: 20vh;
+}
+#cont2{
+    margin-top: 7vh;
+}
+#contid{
+    margin-bottom: 7vh;
+}
+#btn{
+    border: none;
+    background: rgb(69,95,140);
+    background: linear-gradient(90deg, rgba(69,95,140) 0%, rgba(255,1,115) 100%); 
+    margin-top: 2vh;
+    
+}
+.ul1 span{
+    font-size: 15PX;
+    color: red;
+    
+    
+}
+.checkbox1{
+    width: 15px;
+}
